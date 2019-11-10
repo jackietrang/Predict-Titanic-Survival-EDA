@@ -10,9 +10,4 @@ apply to the female population.
 Out of three Kaggle-provided datasets available, this report will focus on exploring the dataset train.csv 
 which provides ground truth of 891 passengers in the Titanic with variables such as age, ticket class, survival outcome, etc. <br/>The data can be found ​here​. 
 
-# Age distribution of survivors and non-survivors
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
-###Add images inside github readme.![12](http://lmsotfy.com/so.png)
-
-
 
